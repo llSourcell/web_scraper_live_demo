@@ -16,6 +16,7 @@ pip install -r requirements.txt
 
 There are two arguments. The first is the article you want to retrive words from. The second is a boolean value that describes
 whether or not you want to remove stop words. 
+
 ``
 python main.py your_article_name_here yes
 ``
